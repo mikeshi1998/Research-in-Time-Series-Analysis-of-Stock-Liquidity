@@ -11,8 +11,6 @@ from arch import arch_model
 
 
 db = wrds.Connection()
-# andrew95
-# Cynfudan95
 
 db.list_libraries()
 
